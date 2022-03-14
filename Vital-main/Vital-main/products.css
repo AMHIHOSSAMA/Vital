@@ -1,0 +1,233 @@
+*{
+    font-family: "Zurich Extended", sans-serif; 
+
+}
+.logo {
+
+   text-align: center !important;
+   margin: 0 auto !important;
+   display: inherit !important;
+   margin-left: 20px;
+}
+
+#logo{
+   width: 150px;
+   height: 70px;
+   margin-top: 5px;
+}
+#frstnav{
+   background-color: #E8C49F !important;
+   height: 45px;
+  padding-top: 10px;
+}
+#frstnav p {
+
+   text-align: center !important;
+
+}
+#frstnav p span {
+   color: red;
+}
+#scndnav{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#scndnav a {
+   font-size: 20px;
+   margin: 10px;
+}
+#scndnav a i{
+   color: #F19B6C;
+}
+
+
+/* main style */
+#shopingP {
+   text-align: center;
+   align-items: center;
+   margin-top: 70px;
+}
+#shopingP h1{
+   font-weight: bold;
+}
+#shopingP p{
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 17px;
+   margin-top: 20px;
+}
+
+/* .columnss{
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+} */
+#frstrow img{
+   width: 260px;
+}
+
+#shopFace{
+    background-image: url(https://cdn.shopify.com/s/files/1/0305/4770/5995/files/4060302_3cd40397-9764-4048-b258-ccd2a0fc69cd_700x.jpg?v=1631615545); 
+   background-size: 100%;
+   background-repeat: no-repeat;
+   align-items: center;
+   text-align: center;
+}
+#col2 img{
+   width: 260px;
+}
+#col1 img{
+   width: 260px;
+}
+
+
+#contents{
+   margin-top: 200px;
+  color: white;
+}
+#contents p{
+   font-weight: bold;
+   font-size: 25px;
+}
+#contents h6{
+   font-weight: bold;
+   font-size: 35px;
+   margin-bottom: 25px;
+}
+#contents a{
+   color: white;
+   font-size: 30px;
+}
+
+
+/* 3eme row */
+#thrtrow img{
+   width: 260px;
+}
+
+
+#loveTHYSELF{
+   height: 800px !important;
+}
+
+#videoRow video{
+   width: 100%;
+   height: 800px;
+}
+#loveTHYSELF img{
+   width: 80%;
+   align-items: center;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 20px;
+   border: 50px;
+   border-color: white;
+}
+#loveTHYSELF {
+   background-color: #F1EDE9;
+   align-items: center;
+   text-align: center;
+   padding-top: 100px;
+}
+#loveTHYSELF h5{
+   margin-bottom: 30px;
+}
+.cart{
+   background-color: white;
+   width: 90%;
+   height: 500px;
+   justify-content: center;
+   align-items: center;
+   margin-left: 30px;
+}
+#cartInfo{
+   margin-top: 20px;
+}
+
+
+
+#refresh{
+   height: 100% !important;
+}
+
+#imageRow img{
+   width: 108%;
+   height: 100%;
+}
+#refresh img{
+   width: 80%;
+   align-items: center;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 20px;
+   border: 50px;
+   border-color: white;
+}
+#refresh {
+   background-color: #F1EDE9;
+   align-items: center;
+   text-align: center;
+   padding-top: 100px;
+}
+#refresh h5{
+   margin-bottom: 30px;
+}
+
+#cartInfo2{
+   margin-top: 20px;
+}
+
+
+
+#lastRow{
+   background-color: #F1EDE9;
+   align-items: center;
+   text-align: center;
+   padding-top: 50px;
+   margin-top: 80px;
+   margin-bottom: 80px;
+}
+
+#bestSell{
+   text-align: center;
+   
+   color: #F19B6C;
+   margin-top: 60px;
+   margin-bottom: 60px;
+   font-weight: bold;
+}
+
+footer{
+   background-color: white !important;
+} 
+footer a{
+   text-decoration: none !important;
+}
+
+#vitalCom{
+color: #F19B6C !important;
+}
+.logo{
+   width: 150px;
+}
+#socialMedia a i{
+   color: #F19B6C;
+}
+#getConnected span{
+   color: black;
+}
+footer h6{
+   color: black;
+  
+}
+.prodImg{
+   margin-top: 50px;
+}
+
+#shopFace{
+   margin-top: 50px;
+}
+#mask{
+   margin-top: 50px;
+}
